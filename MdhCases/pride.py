@@ -1,0 +1,1 @@
+print("\033[38;2;243;134;48mgiant goldfish\033[0m")
